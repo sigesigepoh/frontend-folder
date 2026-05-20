@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Lost Found Mobile",
+    "slug": "lost-found-mobile",
+    "version": "1.0.0",
+    "sdkVersion": "50.0.0",
+    "platforms": ["ios", "android", "web"]
+  }
+}
