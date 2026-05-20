@@ -1,3 +1,14 @@
+# UA Item Tracker - Mobile Frontend
+Built by Group 7 (IT-3B)
+* Team Leader: Aaron Ednel M Enriquez
+* Members: Reden C Lobo Jr., John M Lustre
+
+## Live Sandbox Preview
+* **Public Snack Link:** (https://snack.expo.dev/@sigesigepo/lost-and-found?platform=web)
+* **Connected Base Backend API:** https://ua-peitel-api.onrender.com/api
+
+
+
 # Lost Found Mobile
 
 This is the Expo React Native frontend for the Lost and Found system.
